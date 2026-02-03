@@ -1,2 +1,4 @@
-# SC_302_Documentacion_MN_Meybell
-Laboratorio de introducción a Git y GitHub
+# SC\_302\_Documentacion\_MN\_Meybell
+
+Esta es mi primera práctica con GitHub.
+
